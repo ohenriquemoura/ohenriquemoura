@@ -1,7 +1,7 @@
 Olá, sou Henrique Moura
 
 - 🔭 Hoje Trabalho com Front-End e BackEnd
-- 🐱‍👤 Hoje sou estudante do Sexto período de Ciências da Computação na Pucminas
+- 🐱‍👤 Hoje sou formado em Ciências da Computação na Pucminas
 - 🌱 Estudando React e TypeScript(Projetos privados no momento!)
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
 - 📫 contacte-me no email: henriquebelo10@gmail.com
